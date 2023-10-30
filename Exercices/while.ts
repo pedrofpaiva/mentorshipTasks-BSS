@@ -9,4 +9,4 @@ while ( i < 10000) {
     console.log(`${i} não é divisível por 3.`)
   }
   i = i+1
- }
+}
